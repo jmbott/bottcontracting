@@ -1,3 +1,3 @@
-# Jeccrey Bott Contracting Co. Website
+# Jeffrey Bott Contracting Co. Website
 
 Virtual business card. 
