@@ -1,3 +1,5 @@
-# Jeccrey Bott Contracting Co. Website
+# Jeffrey Bott Contracting Co. Website
 
-Virtual business card. 
+Virtual business card.
+
+See gh-pages branch. 
