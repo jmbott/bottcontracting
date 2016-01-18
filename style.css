@@ -50,6 +50,11 @@ img.logo {
     font-size: 15px;
 }
 
+.footer {
+    width: 100%;
+    height: 50px;
+}
+
 @media screen and (max-width: 600px) {
 
     img.logo {
@@ -83,6 +88,11 @@ img.logo {
         width: 262.5px;
 
         font-size: 15px;
+    }
+
+    .footer {
+        width: 100%;
+        height: 50px;
     }
 
 }
